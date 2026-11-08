@@ -1,0 +1,20 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.example
+.llm_cache/
+.DS_Store
+.streamlit/secrets.toml
+# Screenplay pack and derived confidential data must not be published.
+data/
+raw_outputs/*
+!raw_outputs/.gitkeep
+
+# Input files are confidential
+*.zip
+
+# Rankers trained on confidential editor labels
+models/
