@@ -1,6 +1,6 @@
 # PromoRank AI
 
-A prototype that finds and ranks 20–60 second promotional clip candidates from timestamped microdrama screenplays.
+PromoRank AI is an end-to-end tool that finds and ranks 20–60 second promotional clip candidates from timestamped microdrama screenplays.
 
 ## What it does
 
